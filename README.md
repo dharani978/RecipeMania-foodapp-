@@ -2,7 +2,7 @@
 
 A modern, responsive Recipe App built with React and Vite that allows users to browse, search, and view detailed recipes with ease.
 
-link:dharani-recipemania.netlify.app
+link:https://dharani-recipemania.netlify.app/
 
 ## Features
 
